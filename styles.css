@@ -15,7 +15,9 @@ header {
 }
 
 .contact-item {
-    margin: 10px;
+    margin: -2px;
+    padding-bottom: -100%;
+    margin-bottom: -1%;
 }
 
 .text-white {
