@@ -1,0 +1,40 @@
+{
+    "education": [
+        {
+            "degree": "Bachelor of Engineering, Information Science Engineering",
+            "institution": "Channabasaveshwara Institute of Technology, Tumkur",
+            "details": "CGPA: 8.47 (04/2020 - 06/2024)"
+        },
+        {
+            "degree": "PUC",
+            "institution": "Sarvodaya PU college, Tumkur",
+            "details": "Percentage: 82.66% (03/2018 - 06/2020)"
+        }
+    ],
+    "workExperience": [
+        {
+            "jobTitle": "Graduate Trainee Engineering",
+            "company": "ZSCALER",
+            "duration": "Feb 2024",
+            "description": "I work on projects with software development that enhance the performance and security of networks. In addition, I use tools like Cisco Packet Tracer and Wireshark to troubleshoot network issues, gaining valuable real-world experience in networking and cloud security."
+        },
+        {
+            "jobTitle": "Software Developer Engineering Intern (Machine Vision)",
+            "company": "CMTI",
+            "duration": "May - July 2023",
+            "description": "Created a 3D visualization solution, increasing user engagement by 30%. Integrated technologies for universal compatibility, optimized machine operations by 15% through predictive maintenance, and enhanced software functionality by 25% through cross-functional collaboration."
+        }
+    ],
+    "projects": [
+        {
+            "title": "One Stop Solution For Social Media Management",
+            "githubLink": "https://github.com/granthpoorvik/MEETUPNOWEASIER",
+            "description": "Participated in an AWS user group India hackathon during AWS Community Day India 2022. Developed a platform for event managers to plan and announce events simultaneously via email, Discord, etc., simplifying the organizer's role. Secured 2nd place and received a cash reward for the project's innovation and utility.",
+            "tools": ["Lambda", "EC2", "IAM ROOT", "DynamoDB", "Email and Discord Integration", "Python", "HTML", "CSS", "JS"]
+        }
+        
+    ],
+    "skills": ["Python", "C++", "Pybind11", "Qt (PyQt/PySide)", "CMake", "Sklearn", "Linear Regression", "Support Vector Machines", "scikit-learn", "Pandas", "OpenCV", "MediaPipe", "Google Teachable Machine", "Decision Tree", "Random Forest", "XGBoost"],
+    "certifications": ["AWS Certified Solutions Architect – Associate", "Certified Kubernetes Administrator (CKA)", "Cisco Certified Network Associate (CCNA)"],
+    "achievements": ["2nd Place in AWS User Group India Hackathon, 2022", "Developed a 3D visualization solution for CMTI, enhancing user engagement by 30%", "Optimized machine operations by 15% through predictive maintenance for CMTI"]
+}

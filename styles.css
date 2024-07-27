@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #007bff;
+    color: white;
+}
+
+.fixed-navbar {
+    margin:auto;
+    
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1030; /* Ensure it is above other content */
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ccc;
+}
+
+header p a {
+    color: white;
+    text-decoration: underline;
+}
+
+main {
+    padding: 2rem 0;
+}
+
+h2 {
+    font-size: 2rem;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.card {
+    border: 1px solid #007bff;
+}
+
+.card-title {
+    color: #007bff;
+}
+
+.list-group-item {
+    border: 1px solid #007bff;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 1rem 0;
+}
+.social-media-links a {
+    margin: 0 15px;
+    font-size: 2rem; /* Increased font size for larger icons */
+    transition: color 0.3s;
+}
+
+.social-media-links a:hover {
+    color: #f0ad4e; /* Change to your desired hover color */
+}
+
+
+.scroll {
+    nav-down: auto;
+    scroll-behavior: auto;
+}
+
