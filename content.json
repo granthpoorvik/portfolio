@@ -31,10 +31,82 @@
             "githubLink": "https://github.com/granthpoorvik/MEETUPNOWEASIER",
             "description": "Participated in an AWS user group India hackathon during AWS Community Day India 2022. Developed a platform for event managers to plan and announce events simultaneously via email, Discord, etc., simplifying the organizer's role. Secured 2nd place and received a cash reward for the project's innovation and utility.",
             "tools": ["Lambda", "EC2", "IAM ROOT", "DynamoDB", "Email and Discord Integration", "Python", "HTML", "CSS", "JS"]
+        },
+        {
+            "title": "Cross-Platform Linking Between C++, Python, Qt",
+            "githubLink": "https://github.com/granthpoorvik/CROSS-PLATFORM-LINKING-BETWEEN-CPP-PYTHON-QT",  
+            "description": "Cross-Platform Linkage: Challenges in integrating C++, Python (Pybind11), and Qt (PyQt/PySide) for unified applications across OSs. Dependency Management: Handling platform-specific dependencies, CMake for correct compilation and binary generation. Seamless User Experience: Consistent UIs and system-level features, creating versatile applications.",
+            "tools": ["C++", "Python (Pybind11)", "Qt (PyQt/PySide)", "Dependency Management", "CMake"]
+        },
+        {
+            "title": "Industrial Milling Machine Tool Wear Detection by SVM",
+            "githubLink": "https://github.com/granthpoorvik/TOOL-WEAR-DETECTION-USING-MACHINE-LEARNING-MODELS",
+            "description": "Tool Wear Challenge: Metal cutting machines often face tool wear, leading to surface defects and inaccuracies due to friction and heat. Predictive Solutions: Sklearn, linear regression, and support vector machines analyze data to predict tool wear, maintenance. Reduced Downtime: Early detection prevents work piece damage, machine breakdowns, enhancing efficiency by minimizing downtime.",
+            "tools": ["Tool Wear Detection", "Sklearn", "Linear Regression", "Support Vector Machines"]
+        },
+        {
+            "title": "Predictive Analytics of Heart Failure using scikit-learn Random-Forest and XGBoost Models",
+            "githubLink": "https://github.com/granthpoorvik/Predictive-Analytics-of-Heart-Failure-scikit-learn---Random-Forest-and-XGBoost-Models",  
+            "description": "Using Pandas to perform one-hot encoding of a dataset. Using scikit-learn to implement a Decision Tree, Random Forest, and XGBoost models.",
+            "tools": ["Pandas", "scikit-learn", "Decision Tree", "Random Forest", "XGBoost"]
+        },
+        {
+            "title": "Sign Language Detector Using Hand Gestures OpenCV",
+            "githubLink": "#",  
+            "description": "Technology Stack: Employing MediaPipe, OpenCV, and Google Teachable Machine for image tracking. Gesture Detection: Aiming to detect hand gestures, predict matching signs for a user-friendly app to aid communication with disabled individuals. Challenges: Facing issues with processing power, high CPU consumption, and the need for extensive datasets for effective model training.",
+            "tools": ["MediaPipe", "OpenCV", "Google Teachable Machine", "Model Training"]
         }
         
+        
     ],
-    "skills": ["Python", "C++", "Pybind11", "Qt (PyQt/PySide)", "CMake", "Sklearn", "Linear Regression", "Support Vector Machines", "scikit-learn", "Pandas", "OpenCV", "MediaPipe", "Google Teachable Machine", "Decision Tree", "Random Forest", "XGBoost"],
-    "certifications": ["AWS Certified Solutions Architect – Associate", "Certified Kubernetes Administrator (CKA)", "Cisco Certified Network Associate (CCNA)"],
-    "achievements": ["2nd Place in AWS User Group India Hackathon, 2022", "Developed a 3D visualization solution for CMTI, enhancing user engagement by 30%", "Optimized machine operations by 15% through predictive maintenance for CMTI"]
-}
+    
+    
+    "technical": {
+        "programmingLanguages": ["Python, C++, SQL, Java, C, JavaScript(basic)"],
+        "machineLearning": ["OpenCV, NumPy, Pandas, Matplotlib"],
+        "developerTools": ["VS Code, AWS, Git and GitHub, Postman, QT, Linux, Wireshark"],
+        "frameworksBasics": ["Selenium, Spring Boot (basic)"]
+      },
+      "soft": ["Problem Solving, Analytical, Time Management, Collaboration, Leadership, Adaptability"],
+      
+      "certifications": {
+    "certTitle": [
+      "Machine Learning Specialization Stanford Online | DeepLearning.AI",
+      "Remote sensing and GSI Indian Institute of Remote Sensing, Dehradun",
+      "Supervised Machine Learning Stanford Online",
+      "Advanced Learning Algorithms Stanford Online",
+      "Machine Learning Foundations AWS Educate",
+      "Nano Degree Udacity",
+      "Scientific Computing with Python FreeCodeCamp",
+      "Nptel Programming in Java IIT Kharagpur"
+    ],
+    "certLink": [
+      "https://www.coursera.org/account/accomplishments/specialization/certificate/MHZAHQJ3J54K",
+      "https://drive.google.com/file/d/1Mr-uXApD2fZG9YZ-wMPU2BZ18FLGW2Ni/view",
+      "https://www.coursera.org/account/accomplishments/certificate/CKSYS2SFQFQ5",
+      "https://www.coursera.org/account/accomplishments/certificate/RTQTSXE8ZBJS",
+      "https://www.udacity.com/certificate/6C5CZDTG",
+      "https://www.udacity.com/certificate/FCG5TSNY",
+      "https://www.freecodecamp.org/certification/poorvik_jain_tm/scientific-computing-with-python-v7",
+      "https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS102S5433000110015437"
+    ]
+  },
+
+
+
+   
+    "achievements": 
+    {
+        "hackathons":["AWSomeify Hackathon (AWS INDIA) - Runnerup","AWS Deep Racer - Participant","CIPHER BATTLE 2022 – 24 Hours Hackathon - winner","KNEW- NATIONAL LEVEL TECHENICAL SYMPOSIUM - winner",
+    "TECHNO-CULTURE FLARE 2023 - Runnerup"],
+        "hackLink":["https://devpost.com/software/meetupsnoweasier?ref_content=my-projects-tab&ref_feature=my_projects",
+                    "",
+                    "https://drive.google.com/file/d/1c1pfpheSE1lZNtMj-btP_5Rx6z3GzfV8/view",
+                    "https://drive.google.com/file/d/1c-H9yvGCsVfGeO9_YsmfVArrvZ2trGb9/view",
+                    "https://drive.google.com/file/d/1c-H9yvGCsVfGeO9_YsmfVArrvZ2trGb9/view"]
+        
+
+    },
+    "CommunityActivitys":["AWS cloud champ"," Member of INDIAN SOCIETY FOR TECHNICAL EDUCATION (ISTE)","Coordinator for Infy challengers club CIT"]
+
+    }

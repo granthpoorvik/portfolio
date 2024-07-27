@@ -7,6 +7,20 @@ header {
     color: white;
 }
 
+.contact-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.contact-item {
+    margin: 10px;
+}
+
+.text-white {
+    color: white;
+}
 .fixed-navbar {
     margin:auto;
     
@@ -32,7 +46,9 @@ header p a {
 main {
     padding: 2rem 0;
 }
-
+h5 {
+    font-weight:300;
+}
 h2 {
     font-size: 2rem;
     border-bottom: 2px solid #007bff;
