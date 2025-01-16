@@ -15,7 +15,7 @@
         {
             "jobTitle": "Graduate Trainee Engineering",
             "company": "ZSCALER",
-            "duration": "Feb 2024",
+            "duration": "Feb 2024- present",
             "description": "I work on projects with software development that enhance the performance and security of networks. In addition, I use tools like Cisco Packet Tracer and Wireshark to troubleshoot network issues, gaining valuable real-world experience in networking and cloud security."
         },
         {
@@ -29,8 +29,8 @@
         {
             "title": "One Stop Solution For Social Media Management",
             "githubLink": "https://github.com/granthpoorvik/MEETUPNOWEASIER",
-            "description": "Participated in an AWS user group India hackathon during AWS Community Day India 2022. Developed a platform for event managers to plan and announce events simultaneously via email, Discord, etc., simplifying the organizer's role. Secured 2nd place and received a cash reward for the project's innovation and utility.",
-            "tools": ["Lambda", "EC2", "IAM ROOT", "DynamoDB", "Email and Discord Integration", "Python", "HTML", "CSS", "JS"]
+            "description": "Participated in an AWS user group India hackathon during AWS Community Day India. Developed a platform for event managers to plan and announce events simultaneously via email, Discord, etc., simplifying the organizer's role. Secured 2nd place and received a cash reward for the project's innovation and utility.",
+            "tools": ["Lambda", "IAM ROOT", "DynamoDB", "Email and Discord Integration", "Python", "HTML", "CSS", "JS"]
         },
         {
             "title": "Cross-Platform Linking Between C++, Python, Qt",
